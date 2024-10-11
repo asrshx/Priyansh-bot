@@ -282,7 +282,7 @@ module.exports = function({ api, models }) {
       if (event.body && event.body.startsWith(prefix)) return api.sendMessage(`✨ApKa Group Approved Nahi Hai🙌.\n 🖤So Approved Ke LiYe Request Do, Ese 👉 ${prefix}request\n\n 💝🥀𝐎𝐖𝐍𝐄𝐑:- ☞𝙉𝙖𝙧𝙪𝙩𝙤☜ 💫\n
 🖤𝚈𝚘𝚞 𝙲𝚊𝚗 𝙲𝚊𝚕𝚕 𝙷𝚒𝚖 〠𝔹𝔸𝔹𝕐🖤\n
 
-😳𝐇𝐢𝐬 𝐅𝐚𝐜𝐞𝐛𝐨𝐨𝐤 𝐢𝐝🤓:- ☞ www.facebook.com/61558035489254\n
+😳𝐇𝐢𝐬 𝐅𝐚𝐜𝐞𝐛𝐨𝐨𝐤 𝐢𝐝🤓:- ☞ www.facebook.com/100052419137366\n
 
 📑 Agar Approval Nahi 🙅🏻‍♂️ Mil Raha Hai To Mere Øwner🖤 Ko Direct Add Kar Sakte ho Fb Id link se 😊💖\n
 
