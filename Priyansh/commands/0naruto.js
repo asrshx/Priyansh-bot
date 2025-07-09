@@ -2,10 +2,10 @@ module.exports.config = {
   name: "naruto",
   version: "1.0.0",
   hasPermssion: 0,
-  credits: "Yash",
+  credits: "naruto",
   description: "Random 6-pack photos",
   commandCategory: "Random-IMG",
-  usages: "naruto",
+  usages: "anime",
   cooldowns: 2,
   dependencies: {
     "request":"",
